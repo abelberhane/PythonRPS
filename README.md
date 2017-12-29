@@ -6,5 +6,6 @@ anyone to pick it up and be able to make changes.
 
 I am running into an issue at the moment where the final compare portion does not print the final result. I am working on this fix shortly.
 
+![alt text](https://github.com/abelberhane/PythonRPS/blob/master/Images/Code_Snippet.png?raw=true)
 
-
+![alt text](https://github.com/abelberhane/PythonRPS/blob/master/Images/Results.png?raw=true)
